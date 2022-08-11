@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Shadab Siddique
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Full Stack Development
+- 🌱 Java,Springboot,Angular,NodeJs,ExpressJs,MongoDb,mySQL
 - 💞️ I’m looking to collaborate on My Project
 - 📫 How to reach me https://www.instagram.com/stylo_shadab/
 
